@@ -1,2 +1,2 @@
 # Non-Local-Attention-Person-Re-ID
-intern-work
+intern-work ( can not disclose the exact details right now )
